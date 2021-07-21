@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "snapshot": {
+    "widths": [375, 1280, 1920],
+    "percyCSS": "video { display: none !important; } .vdiffignore { visibility: hidden; }"
+  },
+  "discovery": {
+    "userAgent": "Mozilla/5.0 Macintosh; Intel Mac OS X 10_15_7)( AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36) Percy Visual Tests"
+  }
+}
