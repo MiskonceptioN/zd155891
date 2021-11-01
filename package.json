@@ -8,7 +8,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@percy/cli": "^1.0.0-beta.58",
+    "@percy/cli": "^1.0.0-beta.70",
     "@percy/puppeteer": "^2.0.0",
     "puppeteer": "^10.1.0"
   }
